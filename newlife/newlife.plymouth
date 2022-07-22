@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=New Life
+Description=Ubuntu logo with spinning colored stripes
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/newlife
+ScriptFile=/usr/share/plymouth/themes/newlife.script
+UseFirmwareBackground=false
